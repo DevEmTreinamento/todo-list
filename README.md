@@ -27,14 +27,12 @@
 
 <!-- Menu -->
 <p align="center">
-  <a href="#key-features">Desafio</a> •
-  <a href="#download">Requisitos</a> •
-  <a href="#download">Tecnologias</a> •
-  <a href="#how-to-use">Como começar</a> •
-  <a href="#how-to-use">Pontuação</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#desafio">Desafio</a> •
+  <a href="#requisitos">Requisitos</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#como-começar">Como começar</a> •
+  <a href="#pontuacao">Pontuação</a> •
+  <a href="#o-que-fazer-após-terminar-o-desafio">Entregar desafio</a>
 </p>
 <!-- /Menu -->
 
@@ -85,4 +83,4 @@ Você tem liberdade para utilizar as tecnologias que estiver confortável, mas t
 
 ---
 
-Made with ♥ by [Dev em treinamento](https://www.devemtreinamento.com.br) :wave:
+Made with 💚 by [Dev em treinamento](https://www.devemtreinamento.com.br) 👋
