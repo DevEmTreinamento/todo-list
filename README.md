@@ -74,7 +74,7 @@ Você tem liberdade para utilizar as tecnologias que estiver confortável, mas t
 
 ## Como começar
 
-Nós deixamos livre para que o DEV crie o projeto com as stacks que ele se sinta mais confortável. Então você deve criar um repostório público direto no seu Github.
+Nós deixamos livre para que o DEV faça o desafio com as stacks que ele se sinta mais confortável. Então você deve criar um repostório público direto no seu Github.
 
 ## Pontuação
 
